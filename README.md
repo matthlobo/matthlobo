@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Matth 👋</h1>
+<h1 align="center">Hi, I'm Matt 👋</h1>
 <h3 align="center">A developer passionate about solving problems</h3>
 
 - 🌱 I'm a **Motorcycle enthusiast**
