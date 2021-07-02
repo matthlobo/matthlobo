@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **JavaScript, .NET Core and Cloud Computing**
 
-- 📫 How to reach me **https://twitter.com/xMatheusLobo**
+- 📫 How to reach me <a href="https://twitter.com/xMatheusLobo" target="blank">**@xMatheusLobo**</a>
 
 - ⚡ Fun fact **Love traveling to random places**
 
